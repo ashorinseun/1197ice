@@ -1,0 +1,39 @@
+body{
+    background-color: #141519;
+
+}
+
+.parent {
+    color: #7e8490;
+     width: 350px;
+    padding: 50px;
+    margin: auto;
+    background-color: #24292e;
+    border-radius: 30px;
+    justify-content: space-between;
+
+}
+.parent button{
+    background-color: #fb7512;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+.circle  {
+       background: #262f38;
+        border-radius: 50%;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        color: #6e6e6e;
+        display: inline-block;
+        font-weight: bold;
+        line-height: 40px;
+        margin-right: 5px;
+        text-align: center;
+        width: 40px;
+}
